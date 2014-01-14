@@ -6,16 +6,16 @@ import time
 # Configuration, please edit
 
 # Data about this site
-BLOG_AUTHOR = "Aru Sahni"
-BLOG_TITLE = "Entropy"
+BLOG_AUTHOR = "Sayan Chowdhury"
+BLOG_TITLE = "Intellectual Web"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://arusahni.net/"
+SITE_URL = "http://sayanchowdhury.dgplug.org/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://arusahni.net"
-BLOG_EMAIL = "aru@arusahni.net"
-BLOG_DESCRIPTION = "Aru Sahni's personal blog."
+# BASE_URL = "http://sayanchowdhury.dgplug.org/"
+BLOG_EMAIL = "sayan.chowdhury2012@gmail.com"
+BLOG_DESCRIPTION = "Sayan Chowdhury's personal blog."
 
 # Nikola is multilingual!
 #
@@ -194,7 +194,7 @@ REDIRECTIONS = [
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
-    "rsync -arvuz output/ aru@arusahni.net:/home1/aru/public_html/ --exclude '.git'",
+    "rsync -arvuz output/ sayanchowdhury@dgplug.org:/home/sayanchowdhury/sayanchowdhury.dgplug.org/ --exclude '.git'",
 ]
 
 # Where the output site should be located
@@ -307,7 +307,7 @@ INDEX_TEASERS = True
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = ''
+CONTENT_FOOTER = "Theme based<a href='http://arusahni.net/blog/'>Aru Sahni's</a> blog"
 
 # To use comments, you can choose between different third party comment
 # systems, one of "disqus", "livefyre", "intensedebate", "moot" or "googleplus"
@@ -316,7 +316,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "arusahni"
+COMMENT_SYSTEM_ID = "sayanchowdhury"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -414,9 +414,10 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
 SOCIAL_BUTTONS_CODE = """
 <!-- Social buttons -->
 <ul>
-    <li><a href="https://twitter.com/IAmAru" title="Twitter"><i class="icon-twitter"></i><span class="label">twitter</span></a></li>
-    <li><a href="https://github.com/arusahni" title="Github"><i class="icon-github"></i><span class="label">github</span></a></li>
-    <li><a href="https://plus.google.com/106780152352450272697?rel=author" title="Google+"><i class="icon-google-plus"></i><span class="label">google+</span></a></li>
+    <li><a href="https://sayanchowdhury.dgplug.org/aboutme.html"
+    title="About Me"><i class="icon-user"></i><span class="label">aboutme</span></a></li>
+    <li><a href="https://twitter.com/chowdhury_sayan" title="Twitter"><i class="icon-twitter"></i><span class="label">twitter</span></a></li>
+    <li><a href="https://github.com/sayanchowdhury" title="Github"><i class="icon-github"></i><span class="label">github</span></a></li>
 </ul>
 <!-- End of social buttons -->
 """
@@ -434,7 +435,7 @@ INDEX_DISPLAY_POST_COUNT = 10
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
 # change it for a feedburner feed or something else.
-RSS_LINK = '<link rel="alternate" type="application/rss+xml" title="AruSahni.net posts" href="http://feeds.feedburner.com/arusahni/entropy" />'
+RSS_LINK = '<link rel="alternate" type="application/rss+xml" title="Intellectual Web posts" href="http://feeds.feedburner.com/arusahni/entropy" />'
 
 # Show only teasers in the RSS feed? Default to True
 RSS_TEASERS = True
@@ -519,7 +520,7 @@ BODY_END = """
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-38011141-1']);
+  _gaq.push(['_setAccount', 'UA-41061985-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -564,10 +565,10 @@ BODY_END = """
 # Displaying images is currently not supported.
 TWITTER_CARD = {
     'use_twitter_cards': True,  # enable Twitter Cards / Open Graph
-    'site': '@IAmAru',  # twitter nick for the website
+    'site': '@chowdhury_sayan',  # twitter nick for the website
 #     # 'site:id': 123456,  # Same as site, but the website's Twitter user ID
 #                           # instead.
-    'creator': '@IAmAru',  # Username for the content creator / author.
+    'creator': '@chowdhury_sayan',  # Username for the content creator / author.
 #     # 'creator:id': 654321,  # Same as creator, but the Twitter user's ID.
 }
 
