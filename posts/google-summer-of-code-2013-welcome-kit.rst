@@ -1,0 +1,11 @@
+.. link: http://sayanchowdhury.dgplug.org/2013/google-summer-code-welcome-kit.html
+.. description: 
+.. tags: fedora, gsoc, darkserver
+.. date: 2013/06/25 12:00:00
+.. title: Google Summer of Code 2013: Welcome Kit
+.. slug: google-summer-of-code-2013-welcome-kit
+
+Today, I got my GSoC welcome Kit. YaY!
+
+.. image:: ../galleries/gsoc-welcome-kit-800x600.JPG
+    :align: center

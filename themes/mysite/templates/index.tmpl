@@ -1,0 +1,43 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="index_helper.tmpl"/>
+<%namespace name="disqus" file="disqus_helper.tmpl"/>
+<%inherit file="base.tmpl"/>
+<%block name="content">
+    %if tag is not UNDEFINED:
+        <div class="backlink"><a href="${_link('index', 0)}">blog</a></div>
+    %endif
+    % for post in posts:
+        <div class="post">
+            <h1 class="title"><a href="${post.permalink(lang)}">${post.title(lang)}</a></h1>
+            <div class="meta">
+                <div class="authordate">
+                    <time class="timeago" datetime="${post.date.isoformat()}">${post.formatted_date(date_format)}</time>
+                </div>
+                <div class="stats">
+                    ${disqus.html_disqus_link(post.permalink(lang), '{}_{}'.format(post.formatted_date('%Y%m%d'), post.meta["en"].get("slug")))}
+                </div>
+                %if post.tags:
+                <div class="tags">
+                    <ul>
+                    %for t in post.tags:
+                        <li><a class="tag" href="${_link('tag', t)}">${t}</a></li>
+                    %endfor
+                    </ul>
+                </div>
+                %endif
+            </div>
+            <div class="body">
+                ${post.text(teaser_only=index_teasers)}
+            </div>
+        </div>
+    % endfor
+    ${helper.html_pager()}
+    ${disqus.html_disqus_script()}
+</%block>
+<%block name="scripts">
+<script type="text/javascript">
+    $(function(){
+        $('.timeago').timeago();    
+    });
+</script>
+</%block>

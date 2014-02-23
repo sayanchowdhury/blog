@@ -1,0 +1,30 @@
+## -*- coding: utf-8 -*-
+<%def name="html_head()">
+    <meta charset="utf-8">
+    <meta name="description" content="${description}" >
+    <meta name="author" content="${blog_author}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>${title} | Intellectual Web</title>
+    ${mathjax_config}
+    <link href="/assets/css/main.css" rel="stylesheet" type="text/css" />
+    <link href='//fonts.googleapis.com/css?family=Bitter:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap.css" rel="stylesheet">
+    <script type="text/javascript" src="http://getbootstrap.com/2.3.2/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="http://getbootstrap.com/2.3.2/assets/js/bootstrap-carousel.js"></script>
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    %if rss_link:
+        ${rss_link}
+    %else:
+        %for language in translations:
+            <link rel="alternate" type="application/rss+xml" title="RSS (${language})" href="${_link('rss', None, language)}">
+        %endfor
+    %endif
+    %if favicons:
+        %for name, file, size in favicons:
+            <link rel="${name}" href="${file}" sizes="${size}"/>
+        %endfor
+    %endif
+</%def>
