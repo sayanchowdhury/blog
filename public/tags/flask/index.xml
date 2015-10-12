@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Intellectual Web</title>
+    <link>http://localhost:1313/tags/flask/</link>
+    <description>Recent content in Flask on Intellectual Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Fri, 07 Mar 2014 01:45:03 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mukti 2014</title>
+      <link>http://localhost:1313/mukti-2014/</link>
+      <pubDate>Fri, 07 Mar 2014 01:45:03 +0530</pubDate>
+      
+      <guid>http://localhost:1313/mukti-2014/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://mkti.in/&#34;&gt;Mukti 2014&lt;/a&gt; is the annual national level technical
+symposium on Free and Open Source Software of the GNU/Linux Users’ Group
+NIT Durgapur held from 31st January - 2nd February 2014.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been attending Mukti for last four years. Unlike, the previous
+years when i usually attended Mukti as a student participant, this year
+I attended Mukti as a guest speaker.&lt;/p&gt;
+
+&lt;h1 id=&#34;day-0-30th-january-2014:fe52ebdd6d5eb6c60ad2d67c95ea3093&#34;&gt;Day 0 (30th January 2014)&lt;/h1&gt;
+
+&lt;p&gt;After a hectic travel from Bangalore to Durgapur via Kolkata. TMC called
+of the largest Brigade Rally in Kolkata on the very day. The bus i was
+travelling from Kolkata Airport to Howrah station dropped me at an
+unknown location. I somehow dragged myself and my luggage to station.
+The condition at the station was worse, packed compartments including
+the reserved ones and people fighting for their seats. After a big
+quarrel, I somehow got my seat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sayantanfoto.blogspot.in/&#34;&gt;Sayantan a.k.a kenzo450D&lt;/a&gt; came over
+to the station to pick me up. I reached NIT Durgapur at around 9pm. I
+did a overnight stay at kenzo&amp;rsquo;s hostel room. &lt;a href=&#34;http://ciypro.wordpress.com/&#34;&gt;Chandan
+Kumar&lt;/a&gt; arrived early morning the next day.&lt;/p&gt;
+
+&lt;h1 id=&#34;day-1-31st-january-2014:fe52ebdd6d5eb6c60ad2d67c95ea3093&#34;&gt;Day 1 (31st January 2014)&lt;/h1&gt;
+
+&lt;p&gt;It was a typical winter morning. Living in bangalore for sometime now, I
+was not accustomed with the winter. I was actually feeling good. The
+event started at around 10:30AM. Chandan went over the the auditorium to
+set up the system for his evening session on OpenStack. I gathered some
+of the students in a classroom and told them the importance of
+contributing to Open Source. Chandan joined in after sometime. We
+discussed how contributing helped us and more importantly why shouldn&amp;rsquo;t
+we neglect the subjects in our curricullum.&lt;/p&gt;
+
+&lt;p&gt;Chandan gave a session on OpenStack, explaining the various components
+and setting it up on local maching. Later that night we went over for a
+dinner with the organizing committee, there we met with Shahid Farooqui.&lt;/p&gt;
+
+&lt;h1 id=&#34;day-2-1st-february-2014:fe52ebdd6d5eb6c60ad2d67c95ea3093&#34;&gt;Day 2 (1st February 2014)&lt;/h1&gt;
+
+&lt;p&gt;The event started off with my workshop on building webapps with
+&lt;a href=&#34;http://flask.pocoo.org/&#34;&gt;Flask&lt;/a&gt; . The workshop started off with a chaos
+with no system having Flask, virtualenv and git installed. I, along with
+the committee took quick steps and installed the pre-requisite on the
+systems. I discussed with them how Flask plays an important role in
+&lt;a href=&#34;http://fedoraproject.org/&#34;&gt;Fedora&lt;/a&gt;. The workshop went pretty well. The
+audience was around 60 people.&lt;/p&gt;
+
+&lt;p&gt;Github:
+&lt;a href=&#34;https://github.com/sayanchowdhury/mukti-flask-101&#34;&gt;&lt;a href=&#34;https://github.com/sayanchowdhury/mukti-flask-101&#34;&gt;https://github.com/sayanchowdhury/mukti-flask-101&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We then went over to an auditorium along with some enthusiastic
+students, Chandan and I gave them a task to build an IRC bot using the
+Twisted framework. At a parallel workshop on &amp;ldquo;Building Firefox OS apps&amp;rdquo;,
+we met &lt;a href=&#34;http://kaustavdm.in/&#34;&gt;Kaustav&lt;/a&gt;,
+&lt;a href=&#34;http://birajkarmakar.wordpress.com/&#34;&gt;Biraj&lt;/a&gt;,
+&lt;a href=&#34;http://fosswithumesh.wordpress.com/&#34;&gt;Umesh&lt;/a&gt;, Jai and Gaurab. We went
+for a dinner later that night will all the guest speakers and
+organizers.&lt;/p&gt;
+
+&lt;h1 id=&#34;day-3-2nd-february-2014:fe52ebdd6d5eb6c60ad2d67c95ea3093&#34;&gt;Day 3 (2nd February 2014)&lt;/h1&gt;
+
+&lt;p&gt;On Day 3, I coordinated in the Mozilla workshop in the beginning. Later
+that day we hacked on our projects with some of the students messing
+with the IRC bot. In the evening, at the lightening talk session I
+showed the students how contribute to various Open Source organization.
+It was kind of a demo version of this &lt;a href=&#34;http://sayanchowdhury.dgplug.org/posts/how-to-get-started-with-open-source.html&#34;&gt;blog
+post&lt;/a&gt;.
+I showed the attendees the various websites to start contributing.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the complete Mukti team specially Anish, Vivek and Sayantan,
+who did a commendable job. Hope Mukti 2015 is bigger and better :)&lt;/p&gt;
+
+&lt;p&gt;Images copyright: Sayantan Datta&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

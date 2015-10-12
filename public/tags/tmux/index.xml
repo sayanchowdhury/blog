@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tmux on Intellectual Web</title>
+    <link>http://localhost:1313/tags/tmux/</link>
+    <description>Recent content in Tmux on Intellectual Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Sat, 27 Dec 2014 12:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Migrate a running process into tmux</title>
+      <link>http://localhost:1313/migrate-a-running-process-into-tmux/</link>
+      <pubDate>Sat, 27 Dec 2014 12:00:00 +0530</pubDate>
+      
+      <guid>http://localhost:1313/migrate-a-running-process-into-tmux/</guid>
+      <description>&lt;p&gt;Being a regular tmux user. Migrating a running process into tmux using
+reptyr comes handy.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/nelhage/reptyr&#34;&gt;reptyr&lt;/a&gt; is a utility for taking an
+existing running program and attaching it to a new terminal. Started a
+long-running process over ssh, but have to leave and don&amp;rsquo;t want to
+interrupt it? Just start a screen, use reptyr to grab it, and then kill
+the ssh session and head on home.&lt;/p&gt;
+
+&lt;p&gt;The package available in Fedora/Ubuntu repositories.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;% sudo yum install -y reptyr        # For Fedora users
+% sudo apt-get install -y reptyr    # For Ubuntu users
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The steps to migrate a process is&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sending the current foreground job to the background using CTRL-Z.&lt;/li&gt;
+&lt;li&gt;List all the background jobs using &lt;strong&gt;jobs -l&lt;/strong&gt;. This will get you
+the PID&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;% jobs -l
+[1]  + 16189 suspended  vim foobar.rst
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here the PID is 16189&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Start a new tmux or screen session. I will be using tmux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;% tmux
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reattach the background process using&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;% reptyr 16189
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If this error appears&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;Unable to attach to pid 16189: Operation not permitted
+The kernel denied permission while attaching
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then type in the following command as root.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sourceCode&#34;&gt;% echo 0 &amp;gt; /proc/sys/kernel/yama/ptrace_scope
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;These are commands are compatible with screen also&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

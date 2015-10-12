@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>21 on Intellectual Web</title>
+    <link>http://localhost:1313/tags/21/</link>
+    <description>Recent content in 21 on Intellectual Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Thu, 15 Jan 2015 12:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/21/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fedora 21 Release Party, Bangalore</title>
+      <link>http://localhost:1313/fedora-21-release-party-bangalore/</link>
+      <pubDate>Thu, 15 Jan 2015 12:00:00 +0530</pubDate>
+      
+      <guid>http://localhost:1313/fedora-21-release-party-bangalore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getfedora.org/&#34;&gt;The Fedora Project&lt;/a&gt; announced the release of &lt;a href=&#34;http://fedoramagazine.org/announcing-fedora-21/&#34;&gt;Fedora
+21 on December 09, 2014&lt;/a&gt;. To
+celebrate the release a &lt;a href=&#34;https://fedoraproject.org/wiki/Release_Party_F21_Bangalore&#34;&gt;Fedora 21 release party&lt;/a&gt; was organized at
+Red Hat, Bangalore with the help of Archit and Humble.&lt;/p&gt;
+
+&lt;p&gt;The event was scheduled to start at 10AM but people started coming in from
+9:30AM itself. Around 40 people turned up among them a good number were college
+students.&lt;/p&gt;
+
+&lt;p&gt;The release party finally started at 10:30AM by &lt;a href=&#34;https://fedoraproject.org/wiki/User:Arcolife&#34;&gt;Archit&lt;/a&gt; who gave an introduction of
+Fedora. Then, &lt;a href=&#34;http://www.rtnpro.com&#34;&gt;rtnpro&lt;/a&gt; gave a talk on what&amp;rsquo;s new in
+Fedora 21 release and discussed on the &lt;a href=&#34;http://fedoraproject.org/wiki/Fedora.next&#34;&gt;Fedora.Next
+&lt;/a&gt; project. He was followed by
+&lt;a href=&#34;http://neependra.net/&#34;&gt;Neependra Khare&lt;/a&gt; who spoke on Project Atomic and
+Docker.&lt;/p&gt;
+
+&lt;p&gt;Then we gathered down and celebrated the release of Fedora 21 by cutting a
+cake. After the celebration, I started off with explaining the various teams in
+Fedora and how to approach to contact the teams. I gave them an overview/demo
+of the wiki pages, mailing list and IRC. I briefly explained about the
+&lt;a href=&#34;http://join.fedoraproject.org&#34;&gt;join.fedoraproject.org&lt;/a&gt;. The final talk was
+given by Sinny on Basic RPM packaging. The talk covered the basic aspects of
+RPM packaging and how to create a RPM package of your own.&lt;/p&gt;
+
+&lt;p&gt;At 1:30PM, there was an Open House session where everybody participated
+actively sharing their views, queries and experiences. Fedora 21 LiveCDs were
+distributed among the attendees.&lt;/p&gt;
+
+&lt;p&gt;Thanks to all the organizers for organizing an awesome Fedora 21 release party.
+Looking forward to be part of other Fedora events in future.&lt;/p&gt;
+
+&lt;p&gt;.. raw:: html&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div style=&#39;position: relative; padding-bottom: 76%; height: 0; overflow:
+hidden;&#39;&amp;gt;&amp;lt;iframe id=&#39;iframe&#39;
+src=&#39;http://flickrit.com/slideshowholder.php?height=75&amp;amp;size=big&amp;amp;setId=72157650217576451&amp;amp;thumbnails=0&amp;amp;transition=0&amp;amp;layoutType=responsive&amp;amp;sort=0&#39;
+scrolling=&#39;no&#39; frameborder=&#39;0&#39;style=&#39;width:100%; height:100%; position:
+absolute; top:0; left:0;&#39; &amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

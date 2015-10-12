@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mozilla on Intellectual Web</title>
+    <link>http://localhost:1313/tags/mozilla/</link>
+    <description>Recent content in Mozilla on Intellectual Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Tue, 04 Mar 2014 00:30:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to get started with Open Source</title>
+      <link>http://localhost:1313/how-to-get-started-with-open-source/</link>
+      <pubDate>Tue, 04 Mar 2014 00:30:00 +0530</pubDate>
+      
+      <guid>http://localhost:1313/how-to-get-started-with-open-source/</guid>
+      <description>
+
+&lt;p&gt;I have been involved in &lt;a href=&#34;http://dgplug.org/&#34;&gt;Durgapur Linux User&amp;rsquo;s
+Group&lt;/a&gt; for around last five years. I have been
+contributing to various open source projects quite sometime. The primary
+reason on why I contribute to open source is the feeling, the enjoyment
+when you send a patch or a PR to a open source project. It makes you
+happy when millions of people use your few lines of code in day to day
+life.&lt;/p&gt;
+
+&lt;p&gt;After getting through &lt;a href=&#34;http://www.google-melange.com/&#34;&gt;Google Summer of
+Code&lt;/a&gt; and getting covered in &lt;a href=&#34;http://yourstory.com/2013/09/super-student-sayan-chowdhury-python-and-open-source-developer/&#34;&gt;Super
+Student&lt;/a&gt;,
+a lot of people contacted me. All of them had the same set of questions.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How to get started?&lt;/li&gt;
+&lt;li&gt;I know x,y,z languages. which project should i contribute?&lt;/li&gt;
+&lt;li&gt;How can i filter out a bug?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So, I thought of writing a blog post in which i&amp;rsquo;ll try to answer the
+questions. But, first let us overview on what is Open Source Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is Open Source Software(OSS)?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Source Software is a computer software whose source code is made
+publically available for modification and enhancements released under
+various licenses. &amp;ldquo;&lt;a href=&#34;http://opensource.com/resources/what-open-source&#34;&gt;What is open
+source?&lt;/a&gt;&amp;rdquo; is a good
+read.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I believe in the fact that reading few lines of code is more worth than
+read 500 pages of a book. When you follow code written by great
+programmers you automatically tend to pickup some great practices while
+coding.&lt;/p&gt;
+
+&lt;p&gt;Even before I studied the subject Software Engineering in college, I had
+practical knowledge of version control systems, debuggers, issue
+trackers, continuous integration tools and this was all because of
+contributing to a open source project.&lt;/p&gt;
+
+&lt;p&gt;You make a great resume that stands out from the crowd. Contributing to
+open source software helps you building online presence.&lt;/p&gt;
+
+&lt;p&gt;But, these merry words really are not much help to get you started.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I get started?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first and the foremost thing is choose a programming language of
+your choice. Once you are done with selecting a programming language,
+search for a project you might be interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://openhatch.org/&#34;&gt;Open Hatch&lt;/a&gt; is just for beginners like you. The
+search page of Open Hatch filters out bugs based on&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Languages&lt;/li&gt;
+&lt;li&gt;Projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mozilla too has a wide range of projects filter based on programming
+language. &lt;a href=&#34;http://http://goo.gl/FDQibQ/&#34;&gt;What can I do for Mozilla?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I filter out a bug?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Truly speaking, finding a bug for a beginner is really a hard job. I
+faced the same problems. But i&amp;rsquo;ll be listing down on how to find easy
+bugs and get started with contributing a large organization.&lt;/p&gt;
+
+&lt;h1 id=&#34;fedora:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Fedora&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fedoraproject.org/easyfix/&#34;&gt;Fedora Easy Fix page&lt;/a&gt; list down all
+the easy fixes you can get started with. Each project lists down whom
+you need to contact and the maintainer of the project.&lt;/p&gt;
+
+&lt;p&gt;Fedora Infrastructure respositories contain some easy fixes. Look for
+the &lt;em&gt;EasyFix&lt;/em&gt; label in the repository issues section.
+&lt;a href=&#34;https://github.com/fedora-infra&#34;&gt;&lt;a href=&#34;https://github.com/fedora-infra&#34;&gt;https://github.com/fedora-infra&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;mozilla:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Mozilla&lt;/h1&gt;
+
+&lt;p&gt;Getting started with Mozilla is damn simple. Mozilla has multiple
+gateway for their fellow new contributors.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.whatcanidoformozilla.org&#34;&gt;What can I do for mozilla?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This site suggests you project based on the programming skill you
+select. Once you decide you project it takes you to the respective
+mozilla project.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joshmatthews.net/bugsahoy/&#34;&gt;Bugs Ahoy!&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bugs Ahoy is a site particularly for the new contributors. The website
+categorizes the &amp;lsquo;Easy bugs&amp;rsquo; and &amp;lsquo;Mentored Bugs&amp;rsquo; based on the various
+project like JS Engine, Devtools, Firefox OS etc.&lt;/p&gt;
+
+&lt;p&gt;But, what if you don&amp;rsquo;t know which project is based out of which
+programming language. Bugs Ahoy categorizes the easy bugs based on the
+programming languages too primarily Python, Java, Shell, JS, C/C++,
+HTML/CSS. One can combine the combination of filters to choose the
+perfect bug to get started.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Mozilla Getting Involved Pages.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mozilla has Getting Involved which list down the projects in a
+particular team The projects contains&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The mentors who can be contacted&lt;/li&gt;
+&lt;li&gt;Bugzilla page&lt;/li&gt;
+&lt;li&gt;IRC channel name&lt;/li&gt;
+&lt;li&gt;List of mentored bugs&lt;/li&gt;
+&lt;li&gt;Getting Involved DevTools -
+&lt;a href=&#34;https://wiki.mozilla.org/DevTools/GetInvolved&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/DevTools/GetInvolved&#34;&gt;https://wiki.mozilla.org/DevTools/GetInvolved&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved Mozilla.org -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved AMO -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/addons.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/addons.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/addons.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved SUMO -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/support.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/support.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/support.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved MDN -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved Socorro -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/crash-stats.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/crash-stats.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/crash-stats.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved Mozillians -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/mozillians.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/mozillians.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/mozillians.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved ReMo -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved input.mozilla.org -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/reps.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved careers.mozilla.org -
+&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/careers.mozilla.org&#34;&gt;&lt;a href=&#34;https://wiki.mozilla.org/Webdev/GetInvolved/careers.mozilla.org&#34;&gt;https://wiki.mozilla.org/Webdev/GetInvolved/careers.mozilla.org&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Getting Involved QMO -
+&lt;a href=&#34;https://quality.mozilla.org/docs/webqa/get-involved/&#34;&gt;&lt;a href=&#34;https://quality.mozilla.org/docs/webqa/get-involved/&#34;&gt;https://quality.mozilla.org/docs/webqa/get-involved/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is another link for &lt;em&gt;Bugzilla Mentored Bugs list&lt;/em&gt; -
+&lt;a href=&#34;https://bugzil.la/sw:mentor&#34;&gt;&lt;a href=&#34;https://bugzil.la/sw:mentor&#34;&gt;https://bugzil.la/sw:mentor&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;kde:f5b9ad2352de6b62c6741687c3667068&#34;&gt;KDE&lt;/h1&gt;
+
+&lt;p&gt;If you want to start contributing to KDE, look out for the &lt;strong&gt;Junior
+Jobs&lt;/strong&gt; tag. Like each organization KDE too contains a section on how to
+get started with the KDE projects.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Getting Started -
+&lt;a href=&#34;http://techbase.kde.org/Contribute&#34;&gt;&lt;a href=&#34;http://techbase.kde.org/Contribute&#34;&gt;http://techbase.kde.org/Contribute&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Building a KDE Application -
+&lt;a href=&#34;http://techbase.kde.org/Getting_Started/Build&#34;&gt;&lt;a href=&#34;http://techbase.kde.org/Getting_Started/Build&#34;&gt;http://techbase.kde.org/Getting_Started/Build&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;KDE Guide for a new contributor -
+&lt;a href=&#34;http://flossmanuals.net/kde-guide/&#34;&gt;&lt;a href=&#34;http://flossmanuals.net/kde-guide/&#34;&gt;http://flossmanuals.net/kde-guide/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IRC - #kde-devel on Freenode&lt;/li&gt;
+&lt;li&gt;Mailing List -
+&lt;a href=&#34;https://mail.kde.org/mailman/listinfo/kde-devel&#34;&gt;&lt;a href=&#34;https://mail.kde.org/mailman/listinfo/kde-devel&#34;&gt;https://mail.kde.org/mailman/listinfo/kde-devel&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;openstack:f5b9ad2352de6b62c6741687c3667068&#34;&gt;OpenStack&lt;/h1&gt;
+
+&lt;p&gt;OpenStack is also a great project to start with. The OpenStack project
+is divided into various components: Swift, Glance, Nova, Horizon,
+Keystone etc. Each of these components have their own page. If you head
+over to the &lt;a href=&#34;https://wiki.openstack.org/wiki/Main_Page&#34;&gt;OpenStack Wiki Main
+page&lt;/a&gt;, you can see the
+components listed seperately.&lt;/p&gt;
+
+&lt;p&gt;Each Component page contains the link to repository, bug
+tracker(Launchpad), Documentation etc. OpenStack call their beginner
+bugs as &amp;ldquo;&lt;strong&gt;Low Hanging Fruit&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Getting Started -
+&lt;a href=&#34;https://wiki.openstack.org/wiki/How_To_Contribute&#34;&gt;&lt;a href=&#34;https://wiki.openstack.org/wiki/How_To_Contribute&#34;&gt;https://wiki.openstack.org/wiki/How_To_Contribute&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you are a developer -
+&lt;a href=&#34;https://wiki.openstack.org/wiki/How_To_Contribute#If_you.27re_a_developer&#34;&gt;&lt;a href=&#34;https://wiki.openstack.org/wiki/How_To_Contribute#If_you.27re_a_developer&#34;&gt;https://wiki.openstack.org/wiki/How_To_Contribute#If_you.27re_a_developer&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation - &lt;a href=&#34;docs.openstack.org&#34;&gt;docs.openstack.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IRC - #openstack-101, #openstack on Freenode&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And to find the low hanging fruits? &lt;a href=&#34;https://bugs.launchpad.net/openstack/+bugs?field.tag=low-hanging-fruit&#34;&gt;Click
+here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;wikipedia:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Wikipedia&lt;/h1&gt;
+
+&lt;p&gt;Most of the people on the planet have heard of the name Wikipedia but
+ever thought of contributing to it. Wikipedia is supported by Wikimedia
+Foundation. Mediawiki tag their easy bugs with the easy tag.
+&lt;a href=&#34;https://bugzilla.wikimedia.org/buglist.cgi?bug_severity=normal&amp;amp;bug_severity=minor&amp;amp;bug_severity=trivial&amp;amp;bug_severity=enhancement&amp;amp;bug_status=NEW&amp;amp;bug_status=REOPENED&amp;amp;columnlist=product%2Ccomponent%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&amp;amp;keywords=easy&amp;amp;keywords_type=allwords&amp;amp;order=changeddate%20DESC%2Cproduct%2Ccomponent&#34;&gt;Click!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Getting Started -
+&lt;a href=&#34;http://www.mediawiki.org/wiki/Gerrit/Getting_started&#34;&gt;&lt;a href=&#34;http://www.mediawiki.org/wiki/Gerrit/Getting_started&#34;&gt;http://www.mediawiki.org/wiki/Gerrit/Getting_started&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How to become a Mediawiki Hacker -
+&lt;a href=&#34;http://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker&#34;&gt;&lt;a href=&#34;http://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker&#34;&gt;http://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Installing Mediawiki on local system -
+&lt;a href=&#34;http://www.mediawiki.org/wiki/MediaWiki-Vagrant&#34;&gt;&lt;a href=&#34;http://www.mediawiki.org/wiki/MediaWiki-Vagrant&#34;&gt;http://www.mediawiki.org/wiki/MediaWiki-Vagrant&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IRC - #mediawiki&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now this link is important&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Annoying little bugs -
+&lt;a href=&#34;http://www.mediawiki.org/wiki/Annoying_little_bugs&#34;&gt;&lt;a href=&#34;http://www.mediawiki.org/wiki/Annoying_little_bugs&#34;&gt;http://www.mediawiki.org/wiki/Annoying_little_bugs&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;gnome:f5b9ad2352de6b62c6741687c3667068&#34;&gt;GNOME&lt;/h1&gt;
+
+&lt;p&gt;&amp;lsquo;&lt;strong&gt;Gnome-love&lt;/strong&gt;&amp;rsquo; is the loving tag for the easy bugs who want to get
+started with the GNOME. If you ever visit the GNOME homepage: the
+&amp;ldquo;&lt;strong&gt;Getting Involved&lt;/strong&gt;&amp;rdquo; link is clearly visible in header menubar.
+Anyways here is the
+&lt;a href=&#34;https://bugzilla.gnome.org/buglist.cgi?quicksearch=keywords%3Agnome-love&#34;&gt;link&lt;/a&gt;
+if you don&amp;rsquo;t want to search :)&lt;/p&gt;
+
+&lt;p&gt;GNOME maintains a guide for the newcomers:
+&lt;a href=&#34;https://wiki.gnome.org/NewcomersTutorial&#34;&gt;https://wiki.gnome.org/NewcomersTutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to know on how to submit your first patch, read this :
+&lt;a href=&#34;https://wiki.gnome.org/GnomeLove/SubmittingPatches&#34;&gt;&lt;a href=&#34;https://wiki.gnome.org/GnomeLove/SubmittingPatches&#34;&gt;https://wiki.gnome.org/GnomeLove/SubmittingPatches&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to build the code, then just build it from here:
+&lt;a href=&#34;https://wiki.gnome.org/GnomeLove/JhbuildIntroduction&#34;&gt;&lt;a href=&#34;https://wiki.gnome.org/GnomeLove/JhbuildIntroduction&#34;&gt;https://wiki.gnome.org/GnomeLove/JhbuildIntroduction&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Documentation:
+&lt;a href=&#34;https://developer.gnome.org/&#34;&gt;&lt;a href=&#34;https://developer.gnome.org/&#34;&gt;https://developer.gnome.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;apache:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Apache&lt;/h1&gt;
+
+&lt;p&gt;Apache maintains quite a number of projects. project.apache.org lists a
+catalog of more than 140 projects in which one can start contributing.
+The New Comers section is an easy read on how to get started in Apache,
+&lt;a href=&#34;http://community.apache.org/newcomers/index.html&#34;&gt;&lt;a href=&#34;http://community.apache.org/newcomers/index.html&#34;&gt;http://community.apache.org/newcomers/index.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting Involved wit Apache Software Foundation:
+&lt;a href=&#34;http://www.apache.org/foundation/getinvolved.html&#34;&gt;&lt;a href=&#34;http://www.apache.org/foundation/getinvolved.html&#34;&gt;http://www.apache.org/foundation/getinvolved.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I am an active Python/Django developer for a couple of years. So, I&amp;rsquo;m
+adding on how can one start contributing to Python / Django&lt;/p&gt;
+
+&lt;h1 id=&#34;python:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Python&lt;/h1&gt;
+
+&lt;p&gt;To start with contributing with Python, just head over to the
+&lt;strong&gt;Developer&amp;rsquo;s Guide&lt;/strong&gt;
+(&lt;a href=&#34;http://docs.python.org/devguide/&#34;&gt;&lt;a href=&#34;http://docs.python.org/devguide/&#34;&gt;http://docs.python.org/devguide/&lt;/a&gt;&lt;/a&gt;
+). It starts with cloning the repository in your system tell goes on to
+tell how can you check for the easy fixes.&lt;/p&gt;
+
+&lt;p&gt;The developer guide mentions that how can you start with making
+documentation fixes, then move up to fix small bugs. Once you get
+acquainted you can start taking up easy bugs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;READ:
+&lt;a href=&#34;http://docs.python.org/devguide/fixingissues.html&#34;&gt;&lt;a href=&#34;http://docs.python.org/devguide/fixingissues.html&#34;&gt;http://docs.python.org/devguide/fixingissues.html&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Issue Tracker: &lt;a href=&#34;http://bugs.python.org/&#34;&gt;&lt;a href=&#34;http://bugs.python.org/&#34;&gt;http://bugs.python.org/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Easy Issues: &lt;a href=&#34;http://goo.gl/NzJuDp&#34;&gt;&lt;a href=&#34;http://goo.gl/NzJuDp&#34;&gt;http://goo.gl/NzJuDp&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;django:f5b9ad2352de6b62c6741687c3667068&#34;&gt;Django&lt;/h1&gt;
+
+&lt;p&gt;Django is a Python based web-framework used by some really big companies
+e.g. Disqus, Instagram, Transifex etc. To start contributing in Django,
+head over to the page &lt;a href=&#34;https://docs.djangoproject.com/en/1.6/internals/contributing/&#34;&gt;Contributing to
+Django&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This page lists down the links to mailing list, IRC channel, Issue
+Tracker.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Getting Involved in Django:
+&lt;a href=&#34;https://code.djangoproject.com/#Gettinginvolved&#34;&gt;&lt;a href=&#34;https://code.djangoproject.com/#Gettinginvolved&#34;&gt;https://code.djangoproject.com/#Gettinginvolved&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Like most of the open source project Django too has easy fixes for the
+new contributors.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Little Easy Improvement -
+&lt;a href=&#34;https://code.djangoproject.com/wiki/LittleEasyImprovements&#34;&gt;https://code.djangoproject.com/wiki/LittleEasyImprovements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Easy pickings -
+&lt;a href=&#34;https://code.djangoproject.com/query?status&#34;&gt;https://code.djangoproject.com/query?status&lt;/a&gt;=!closed&amp;amp;easy=1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &amp;ldquo;Little Easy Improvement&amp;rdquo; also mentions issue for which one can send
+patches for
+&lt;a href=&#34;https://code.djangoproject.com/query?status=!closed&amp;amp;needs_docs=1&amp;amp;order=priority&#34;&gt;documentation&lt;/a&gt;,
+&lt;a href=&#34;https://code.djangoproject.com/query?status=!closed&amp;amp;needs_tests=1&amp;amp;order=priority&#34;&gt;writing
+tests&lt;/a&gt;,
+or improving the
+&lt;a href=&#34;https://code.djangoproject.com/wiki/LittleEasyImprovements&#34;&gt;codebase&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Django maintains a page to advice new contributors:
+&lt;a href=&#34;https://docs.djangoproject.com/en/1.6/internals/contributing/new-contributors/&#34;&gt;&lt;a href=&#34;https://docs.djangoproject.com/en/1.6/internals/contributing/new-contributors/&#34;&gt;https://docs.djangoproject.com/en/1.6/internals/contributing/new-contributors/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contributing to Open Source does not enforce you to contribute only to a
+well-known community. There is a huge collection of open source projects
+available on websites like &lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;,
+&lt;a href=&#34;http://sourceforge.net/&#34;&gt;SourceForge&lt;/a&gt; , &lt;a href=&#34;https://code.google.com/&#34;&gt;Google
+Code&lt;/a&gt;, &lt;a href=&#34;https://bitbucket.org/&#34;&gt;Bitbucket&lt;/a&gt;
+etc. I also enforce on the fact that just open source contribution does
+not help. One need to work on side-project for ideas to keep flowing out
+of his brain.&lt;/p&gt;
+
+&lt;p&gt;I also you like to quote a few lines from a nice &lt;a href=&#34;http://blog.codecombat.com/reasons-why-you-shouldnt-hack-on-open-source-projects&#34;&gt;blog
+post&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;You shouldn&#39;t become an artist so you can be famous, but because there&#39;s art inside of you that will kill you if you don&#39;t let it out. You shouldn&#39;t found a startup to make money, but because it&#39;s your life&#39;s work. And you shouldn&#39;t hack on open source projects because someone told you that your GitHub profile is your new resume, but because you want to code socially.&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Once you start contributing, you start interacting to people via IRC,
+mailing lists. I strongly suggest you to go through the etiquette an
+organization follows. In general roll your eyes through this
+presentation to get a brief of it.
+&lt;a href=&#34;http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf&#34;&gt;&lt;a href=&#34;http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf&#34;&gt;http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Even after reading this if you face any problem. Feel free to reach me
+on &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;twitter&lt;/a&gt; or shoot me a mail at
+&lt;em&gt;sayan DOT chowdhury2012 AT gmail DOT com&lt;/em&gt;. I would also like to thank
+&lt;a href=&#34;https://twitter.com/ciypro&#34;&gt;Chandan Kumar&lt;/a&gt; who helped me in writing
+this blog post, he can be reached on chandankumar DOT 093047 AT gmail
+DOT com.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mozilla Summit 2013</title>
+      <link>http://localhost:1313/mozilla-summit-2013/</link>
+      <pubDate>Sat, 02 Nov 2013 12:00:00 +0530</pubDate>
+      
+      <guid>http://localhost:1313/mozilla-summit-2013/</guid>
+      <description>
+
+&lt;p&gt;I could not sleep the night i got the invitation mail from Mozilla to
+attend Mozilla Summit 2013. I was roaming around my college hostel
+waking up everybody from their sleep just to tell them that “&lt;strong&gt;I have
+been invited to Mozilla Summit 2013 at Santa Clara, CA&lt;/strong&gt;”. I was really
+very excited as this was be my first international travel.&lt;/p&gt;
+
+&lt;p&gt;Finally the month of October came. rtnpro and I left for bangalore
+airport early (all due to exitement). At airport, we met with other
+mozillians who were on the same flight. After the checkin and the
+security check (i was really scared during the security check, i kept on
+thinking “&lt;strong&gt;What will happen if they cancel my trip&lt;/strong&gt;”), we boarded the
+flight to Dubai from where we had the connecting flight to San
+Francisco.&lt;/p&gt;
+
+&lt;p&gt;After a long trip of 20 hours we finally reached San Francisco where we
+were greeted by other Mozillians and we took a shuttle to our hotel,
+Santa Clara Mariott. After reaching hotel, we took our keys from the
+Hotel Reception. The NFC cards we really unique, they had Mozilla Summit
+2013 printed on them (I brought a card home as a life-long memory). We
+then went off to collect the most awaited Summit Welcome Pack. The
+welcome pack full of swags, 3 t-shirts and more.&lt;/p&gt;
+
+&lt;p&gt;After taking in some rest, we went downstairs to the lobby and met with
+some awesome Mozillians whom i had known via IRC. The Summit was yet to
+begin, but the enthusiasm was already visible. Everybody were excited to
+get be the part of Mozilla Summit 2013.&lt;/p&gt;
+
+&lt;p&gt;In the morning of Day 1, we went around for a Photo walk took and took
+some group pictures.&lt;/p&gt;
+
+&lt;p&gt;Day 1 started with the inspirational talk by &lt;a href=&#34;https://twitter.com/MitchellBaker&#34;&gt;Mitchell
+Baker&lt;/a&gt;, I really loved the video
+&lt;a href=&#34;http://www.ted.com/talks/eric_whitacre_a_virtual_choir_2_000_voices_strong.html&#34;&gt;Virtual
+Choir&lt;/a&gt;.
+Later in the afternoon, i went around roaming in the World Fair, getting
+to know about the culure of different countries. Later in the evening, i
+went off to electronics stores in Santa Clara to grab a Das Keyboard for
+myself, but was really unlucky on that.&lt;/p&gt;
+
+&lt;p&gt;The demos of &lt;strong&gt;Day 2&lt;/strong&gt; were awesome which was followed by the Innovation
+Fair where I saw some Mozillians doing some really crazy stuffs. Being
+an avid gamer, i really loved the demos, I also got a chance to play on
+a Razer laptop (It was my dream). In the evening we went to Great
+America, the Carousel Columbia looked amazing(I haven’t seen a carousel
+this big, ever). Waiting in the long Qs somehow i took the thrill rides
+out there.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gold Striker&lt;/li&gt;
+&lt;li&gt;Tiki Twirl&lt;/li&gt;
+&lt;li&gt;Drop Tower&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 3&lt;/strong&gt;, I kept roaming around meeting mozillians, exchanging ideas
+with them. In the evening, we took a ride to Mozilla HQ. Thanks to
+Pascal Finette for being such a nice guide. The day ended with Karoke/DJ
+(I grabbed some bottles of beer and danced like anything). It was real
+fun&lt;/p&gt;
+
+&lt;p&gt;Finally the day came to depart, I checked out of the hotel and still two
+hours in hand, I rented a bicycle from the hotel and went to visit the
+nearby Intel HQ.&lt;/p&gt;
+
+&lt;h1 id=&#34;moments-of-mozilla-summit-2013:77c0a50d30c5efc2b2f74f2e96fb8c6a&#34;&gt;Moments of Mozilla Summit 2013&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My face when somebody in the Bangalore airport told that we might
+miss the flight to San Francisco (The network at the Bangalore
+Airport was down and the flight took off 1:30 hours late).&lt;/li&gt;
+&lt;li&gt;Aerial View of San Francisco and the Aerial view of Dubai at Night.&lt;/li&gt;
+&lt;li&gt;I watched 7 movies back-to-back on the flight to San Francisco.&lt;/li&gt;
+&lt;li&gt;Getting to meet some cool Mozillians like Brendan Eich, Erik Rose(I
+learnt testing from one of his talk), Erickt, Benjamin Kerensa,
+Matjaž Horvat…..the list is really endless.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;things-i-learnt-at-mozilla-summit-2013:77c0a50d30c5efc2b2f74f2e96fb8c6a&#34;&gt;Things I learnt at Mozilla Summit 2013&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I got encouraged to contribute more and help building a better web.&lt;/li&gt;
+&lt;li&gt;Interacting with the other Mozillians, I got to know some
+technologies i never knew of.&lt;/li&gt;
+&lt;li&gt;Finally, I learnt to use chop-sticks. Yay!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;after-a-month-of-mozilla-summit-2013:77c0a50d30c5efc2b2f74f2e96fb8c6a&#34;&gt;After a month of Mozilla Summit 2013&lt;/h1&gt;
+
+&lt;p&gt;Earlier, I used to evangelize Mozilla Webmaker among my college mates,
+friends and LUG members etc. I also actively participated in Hindi l10n.
+But, after Mozilla Summit 2013 i thought being a Python/Django developer
+&amp;ldquo;&lt;strong&gt;Why not contribute to Mozilla projects&lt;/strong&gt;&amp;rdquo;. After some googling i came
+across &lt;a href=&#34;http://www.joshmatthews.net/bugsahoy/&#34;&gt;Bugs Ahoy!&lt;/a&gt; made by jdm.
+I found out some bugs and started contributing. Now, I got more ways to
+contribute :). Now somebody ask me one how to contribute to mozilla, i
+also describe the how they can start with the easy or the mentored bugs.
+I submitted three patches lately.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://git.io/spl8JQ&#34;&gt;&lt;a href=&#34;http://git.io/spl8JQ&#34;&gt;http://git.io/spl8JQ&lt;/a&gt;&lt;/a&gt;\
+&lt;a href=&#34;http://git.io/rlm0dA&#34;&gt;&lt;a href=&#34;http://git.io/rlm0dA&#34;&gt;http://git.io/rlm0dA&lt;/a&gt;&lt;/a&gt;\
+&lt;a href=&#34;http://git.io/Q8W9HA&#34;&gt;&lt;a href=&#34;http://git.io/Q8W9HA&#34;&gt;http://git.io/Q8W9HA&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I feel the pride in saying &amp;ldquo;&lt;strong&gt;I am a Mozillian&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
