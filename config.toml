@@ -1,24 +1,24 @@
-BaseUrl= "http://sayanchowdhury.dgplug.org/"
+BaseURL= "https://sayanchowdhury.dgplug.org/"
 LanguageCode= "en-us"
 Title= "Intellectual Web"
 paginate = 5
 DisqusShortname = "sayanchowdhury"
 Copyright = "All rights reserved - 2015"
 canonifyurls = true
-theme="casper"
+theme="beautifulhugo"
 
 [params]
   cover = "images/cover.jpg"
-  author = "Sayan Chowdhury"
-  authorlocation = "Bangalore, India"
-  authorwebsite = "http://sayanchowdhury.dgplug.org"
-  googleAnalyticsUserID = "UA-41061985-1"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  githubName = "sayanchowdhury"
-  twitterName = "chowdhury_sayan"
-  # facebookName = "synpro"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  googleAnalytics = "UA-41061985-1"
+  logo = "images/yoda.jpg"
   hideHUGOSupport = false
+
+[author]
+  name = "Sayan Chowdhury"
+  github = "sayanchowdhury"
+  twitter = "yudocaa"
+  facebook = "synpro"
+
 [permalinks]
   post = "/:slug/"
 
@@ -29,11 +29,11 @@ theme="casper"
   url = "/"
 
 [[menu.main]]
-  name = "Github repos"
+  name = "Github"
   weight = 100
   url = "https://github.com/sayanchowdhury"
 
 [[menu.main]]
-  name = "Twitter timeline"
+  name = "Twitter"
   weight = 101
-  url = "https://twitter.com/chowdhury_sayan"
+  url = "https://twitter.com/yudocaa"
