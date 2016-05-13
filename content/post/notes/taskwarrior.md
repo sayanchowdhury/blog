@@ -4,8 +4,9 @@ slug = "taskwarrior"
 date = "2016-04-17T16:30:00+05:30"
 tags = ["taskwarrior", "notes"]
 link = "https://sayanchowdhury.dgplug.org/notes/taskwarrior"
-draft= true
 description = ""
+draft = true
+aliases = ["/post/notes/taskwarrior/"]
 +++
 
 What is GTD?

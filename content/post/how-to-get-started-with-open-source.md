@@ -5,6 +5,9 @@ tags = ["planet", "fedora", "open source", "kde", "mozilla", "mediawiki", "opens
 date = "2014-03-04T00:30:00+05:30"
 title = "How to get started with Open Source"
 slug = "how-to-get-started-with-open-source"
+aliases = [
+    '/posts/how-to-get-started-with-open-source.html'
+]
 +++
 
 I have been involved in [Durgapur Linux User's

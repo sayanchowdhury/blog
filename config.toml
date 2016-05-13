@@ -1,11 +1,9 @@
-BaseURL= "https://sayanchowdhury.dgplug.org/"
-LanguageCode= "en-us"
-Title= "Intellectual Web"
+baseurl= "https://sayanchowdhury.dgplug.org/"
+languagecode= "en-us"
+title= "Intellectual Web"
 paginate = 5
-DisqusShortname = "sayanchowdhury"
+disqusshortname = "sayanchowdhury"
 Copyright = "All rights reserved - 2016"
-canonifyurls = true
-theme="beautifulhugo"
 
 [params]
   cover = "images/cover.jpg"
