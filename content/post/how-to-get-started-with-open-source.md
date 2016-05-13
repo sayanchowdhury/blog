@@ -317,7 +317,7 @@ presentation to get a brief of it.
 [<http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf>](http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf)
 
 Even after reading this if you face any problem. Feel free to reach me
-on [twitter](https://twitter.com/chowdhury_sayan) or shoot me a mail at
+on [twitter](https://twitter.com/yudocaa) or shoot me a mail at
 *sayan DOT chowdhury2012 AT gmail DOT com*. I would also like to thank
 [Chandan Kumar](https://twitter.com/ciypro) who helped me in writing
 this blog post, he can be reached on chandankumar DOT 093047 AT gmail
