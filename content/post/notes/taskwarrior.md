@@ -1,13 +1,19 @@
 +++
 title = "Notes: GTD and Taskwarrior"
 slug = "taskwarrior"
-date = "2016-04-17T16:30:00+05:30"
+date = "2016-05-13T16:30:00+05:30"
 tags = ["taskwarrior", "notes"]
 link = "https://sayanchowdhury.dgplug.org/notes/taskwarrior"
 description = ""
-draft = true
 aliases = ["/post/notes/taskwarrior/"]
 +++
+> The posts tagged with notes are stuffs that I learned over
+> time from blogs, articles, trying out on my own. The posts will be updated
+> whenever I learn something new on the topic. This post can be easily read anytime and
+> anywhere. Also, they can be easily shared. Do comment/point out if something
+> is wrong out there.
+>
+> Inspired by Julia Evans <http://jvns.ca/> to write these posts.
 
 What is GTD?
 ------------
@@ -59,4 +65,68 @@ you are waiting on somebodies action.
 
 `Projects`
 ---------
-List 
+The `Projects` list contains the list of `next actions`. If anything that takes
+more that one `next actions` to complete can be combined into a project.
+Completing the tasks one by one takes one one step closer to completing the
+project.
+
+It's good to write down the goal of the project maybe as a description so that
+it helps in focusing on the goal.
+
+`Contexts`
+---------
+The contexts are basically `tags` to actions. It is a common practice to add
+`@` when context is a location.
+
+`Agenda Contexts` - Agenda context is setting an agenda for a certain type of
+work. For example for everday meeting you can add the agenda context to all the
+actions that needs to be discussed.
+[Read](http://gettingthingsdone.com/2011/01/the-agenda-effect/)
+
+The `someday/maybe` list
+------------------------
+Projects and Ideas which does not need immediate attention but surely needs
+attention when you have time goes into `someday/maybe` list. This list should
+be reviewed weekly along with the rest of the system during the weekly review.
+
+`Calendar`
+----------
+The `calendar` is for doing things on a certain time and date.Only keep time
+sensitive activities in list so that it does not get diluted.
+
+`Weekly Review`
+---------------
+This is one of the critical factors for the success of the `GTD Framework`. The
+`weekly review` needs to be done once per week.
+
+- Review each of the `next action`. Each project should have atleast one `next
+  action`. Only keep the items which you can do in the coming week else move it
+  to `someday/maybe` list. If you don’t think you will ever do it—remove it
+  completely.
+- Look through your someday/maybe list and see if some `projects/actions` should
+  be moved to the list of current `projects/the next actions` list. If creating a
+  new project on your projects list, make sure to figure out its next physical,
+  visible action and put it on the next actions list as well.
+
+`Trigger` List
+--------------
+Trigger List is a list of `keywords` which is useful to trigger thoughts/ideas
+floating around your head during brain dumps.
+[Read](https://hackmake.org/reference/gtd-trigger-list)
+
+Tools - `Read and Review`
+-------------------------
+A `read/review` folder is a list of documents that you maintain to read.
+Whenever you have some minutes to kill you can refer to this list.
+
+Tools - `Tickler` file
+----------------------
+If you need sometime on a specific date and time. Maintain this the *action
+item* will only pop up on that specific date and time.
+
+
+References
+----------
+
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/)
+

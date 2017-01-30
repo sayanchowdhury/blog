@@ -4,10 +4,12 @@ title= "Intellectual Web"
 paginate = 5
 disqusshortname = "sayanchowdhury"
 Copyright = "All rights reserved - 2016"
+googleAnalytics = "UA-41061985-1"
+theme = "beautifulhugo"
+
 
 [params]
   cover = "images/cover.jpg"
-  googleAnalytics = "UA-41061985-1"
   logo = "images/yoda.jpg"
   hideHUGOSupport = false
 
