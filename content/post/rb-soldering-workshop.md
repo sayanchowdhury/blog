@@ -2,7 +2,7 @@
 title = "Basic Soldering Workshop at reserved-bit"
 slug = "soldering-workshop-at-rb"
 date = "2017-02-01T15:00:00+05:30"
-tags = ["soldering", "workshop", "reserved-bit", "hackerspace"]
+tags = ["soldering", "workshop", "reserved-bit", "hackerspace", "planet"]
 link = "https://sayanchowdhury.dgplug.org/posts/soldering-workshop-at-rb"
 description = ""
 +++
@@ -28,6 +28,6 @@ been an issue for me.
 
 Hopefully with this workshop I can get rid of that dependency.
 
-If you are centered around Pune, then register you are [register](http://bit.ly/rb-soldering-bw) for the workshop. Do remember to register asap because afaik the seats are limited.
+If you are centered around Pune, then register you can [register](http://bit.ly/rb-soldering-bw) for the workshop. Do remember to register asap because afaik the seats are limited.
 
 {{<figure src="/images/rb-soldering-bw.jpg" >}}
