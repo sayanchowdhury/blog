@@ -1,6 +1,6 @@
 +++
-title = "PyLadies Pune Meetup - February 2016"
-slug = "pyladies-pune-meetup-feb-2016"
+title = "PyLadies Pune Meetup - February 2017"
+slug = "pyladies-pune-meetup-feb-2017"
 date = "2017-02-06T20:30:00+05:30"
 tags = ["planet", "python", "pyladies", "pune", "meetup", "2016"]
 link = "https://sayanchowdhury.dgplug.org/posts/pyladies-pune-meetup-feb-2016"
@@ -13,7 +13,7 @@ The [PyLadies Pune](http://pune.pyladies.com/) February Meetup was held on
 [Kushal](https://kushaldas.in/) took a session on 
 [MicroPython](https://micropython.org/) on the 
 [MicroBit](https://www.microbit.co.uk/) boards. 
-Thanks, to [@ntoll](http://ntoll.org/) for sending over the microbits for workshops.
+Thanks to [@ntoll](http://ntoll.org/) for sending over the MicroBits for workshops.
 
 I reached down to the venue a bit late. On reaching the venue, Kushal told me
 that he forgot the boards at home and I went to his place to pick the
